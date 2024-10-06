@@ -1,10 +1,6 @@
 [
   {
-    "company": {
-      "company_name": "NeuroTech Systems",
-      "company_email": "info@neurotechsystems.com",
-      "company_location": "San Francisco, USA"
-    },
+    "company_email": "info@neurotechsystems.com",
     "jobTitle": "Frontend Developer",
     "category": "Web Development",
     "description": [
@@ -12,9 +8,10 @@
       "You will be responsible for building responsive user interfaces.",
       "Work closely with designers to create an engaging user experience."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Remote",
-    "salary_range": "$80,000 - $120,000",
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "$80,000",
+    "max_salary": "$120,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-01",
     "requirements": [
@@ -32,11 +29,7 @@
     "tags": ["Frontend Development", "React", "Web Development"]
   },
   {
-    "company": {
-      "company_name": "NeuroTech Systems",
-      "company_email": "info@neurotechsystems.com",
-      "company_location": "San Francisco, USA"
-    },
+    "company_email": "info@neurotechsystems.com",
     "jobTitle": "Data Scientist",
     "category": "Data Science",
     "description": [
@@ -44,9 +37,10 @@
       "You will develop predictive models to improve product offerings.",
       "Collaborate with cross-functional teams to implement data-driven solutions."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Remote",
-    "salary_range": "$90,000 - $130,000",
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "$90,000",
+    "max_salary": "$130,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-01",
     "requirements": [
@@ -64,11 +58,7 @@
     "tags": ["Data Science", "Machine Learning", "Analytics"]
   },
   {
-    "company": {
-      "company_name": "QuantumLeap Technologies",
-      "company_email": "contact@quantumleaptech.com",
-      "company_location": "London, UK"
-    },
+    "company_email": "contact@quantumleaptech.com",
     "jobTitle": "Software Engineer",
     "category": "Engineering",
     "description": [
@@ -76,9 +66,10 @@
       "You will work on developing cutting-edge quantum computing applications.",
       "Collaborate with researchers and scientists to bring quantum solutions to life."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "On-site",
-    "salary_range": "$100,000 - $150,000",
+    "job_type": "Full-time",
+    "job_location": "On-site",
+    "min_salary": "$100,000",
+    "max_salary": "$ $150,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-15",
     "requirements": [
@@ -96,11 +87,7 @@
     "tags": ["Quantum Computing", "Software Development", "Engineering"]
   },
   {
-    "company": {
-      "company_name": "QuantumLeap Technologies",
-      "company_email": "contact@quantumleaptech.com",
-      "company_location": "London, UK"
-    },
+    "company_email": "contact@quantumleaptech.com",
     "jobTitle": "Research Scientist",
     "category": "Research",
     "description": [
@@ -108,9 +95,10 @@
       "You will conduct groundbreaking research and publish your findings.",
       "Collaborate with other scientists and engineers on advanced projects."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "On-site",
-    "salary_range": "$120,000 - $180,000",
+    "job_type": "Full-time",
+    "job_location": "On-site",
+    "min_salary": "$120,000",
+    "max_salary": "$ $180,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-15",
     "requirements": [
@@ -128,11 +116,7 @@
     "tags": ["Quantum Research", "Algorithms", "Science"]
   },
   {
-    "company": {
-      "company_name": "GreenEnergy Solutions",
-      "company_email": "info@greenenergysolutions.com",
-      "company_location": "New York, USA"
-    },
+    "company_email": "info@greenenergysolutions.com",
     "jobTitle": "Project Manager",
     "category": "Project Management",
     "description": [
@@ -140,9 +124,10 @@
       "You will be responsible for planning, executing, and closing projects within the specified timeline and budget.",
       "Work with diverse teams to deliver sustainable energy solutions."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Hybrid",
-    "salary_range": "$90,000 - $130,000",
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "$90,000",
+    "max_salary": "$130,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-10",
     "requirements": [
@@ -160,11 +145,7 @@
     "tags": ["Project Management", "Renewable Energy", "Sustainability"]
   },
   {
-    "company": {
-      "company_name": "GreenEnergy Solutions",
-      "company_email": "info@greenenergysolutions.com",
-      "company_location": "New York, USA"
-    },
+    "company_email": "info@greenenergysolutions.com",
     "jobTitle": "Electrical Engineer",
     "category": "Engineering",
     "description": [
@@ -172,9 +153,10 @@
       "You will work on innovative projects in renewable energy.",
       "Collaborate with a team of engineers and project managers."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "On-site",
-    "salary_range": "$80,000 - $120,000",
+    "job_type": "Full-time",
+    "job_location": "On-site",
+    "min_salary": "$80,000",
+    "max_salary": "$120,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-10",
     "requirements": [
@@ -192,11 +174,7 @@
     "tags": ["Electrical Engineering", "Renewable Energy", "Engineering"]
   },
   {
-    "company": {
-      "company_name": "CyberSafe Technologies",
-      "company_email": "support@cybersafetech.com",
-      "company_location": "Los Angeles, USA"
-    },
+    "company_email": "support@cybersafetech.com",
     "jobTitle": "Cybersecurity Analyst",
     "category": "Cybersecurity",
     "description": [
@@ -204,9 +182,10 @@
       "You will monitor networks and respond to security incidents.",
       "Conduct vulnerability assessments and recommend security measures."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Remote",
-    "salary_range": "$75,000 - $115,000",
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "$75,000",
+    "max_salary": "$115,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-05",
     "requirements": [
@@ -224,11 +203,7 @@
     "tags": ["Cybersecurity", "IT Security", "Network Security"]
   },
   {
-    "company": {
-      "company_name": "CyberSafe Technologies",
-      "company_email": "support@cybersafetech.com",
-      "company_location": "Los Angeles, USA"
-    },
+    "company_email": "support@cybersafetech.com",
     "jobTitle": "Penetration Tester",
     "category": "Cybersecurity",
     "description": [
@@ -236,9 +211,10 @@
       "You will simulate attacks to identify vulnerabilities.",
       "Provide recommendations for strengthening security measures."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Remote",
-    "salary_range": "$85,000 - $125,000",
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "$85,000",
+    "max_salary": "$125,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-05",
     "requirements": [
@@ -256,11 +232,7 @@
     "tags": ["Penetration Testing", "Cybersecurity", "Ethical Hacking"]
   },
   {
-    "company": {
-      "company_name": "FinNext Solutions",
-      "company_email": "hello@finnextsolutions.com",
-      "company_location": "Madrid, Spain"
-    },
+    "company_email": "hello@finnextsolutions.com",
     "jobTitle": "Machine Learning Engineer",
     "category": "Artificial Intelligence",
     "description": [
@@ -268,9 +240,10 @@
       "You will work on cutting-edge AI projects that impact various industries.",
       "Collaborate with data scientists and software engineers."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Hybrid",
-    "salary_range": "$100,000 - $140,000",
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "$100,000",
+    "max_salary": "$ $140,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-10",
     "requirements": [
@@ -288,11 +261,7 @@
     "tags": ["Machine Learning", "AI", "Data Science"]
   },
   {
-    "company": {
-      "company_name": "FinNext Solutions",
-      "company_email": "hello@finnextsolutions.com",
-      "company_location": "Madrid, Spain"
-    },
+    "company_email": "hello@finnextsolutions.com",
     "jobTitle": "AI Research Scientist",
     "category": "Research",
     "description": [
@@ -300,9 +269,10 @@
       "You will explore advanced AI methodologies and publish your findings.",
       "Collaborate with a team of researchers to drive innovation."
     ],
-    "job_Duration": "Full-time",
-    "job_type": "Hybrid",
-    "salary_range": "$120,000 - $160,000",
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "$120,000",
+    "max_salary": "$ $160,000",
     "postedDate": "2024-10-05",
     "lastDateToApply": "2024-11-10",
     "requirements": [
