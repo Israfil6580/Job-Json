@@ -1,6 +1,5 @@
 [
   {
-    "_id": "67036cfdbef6e9a61db06fd9",
     "company_email": "info@neurotechsystems.com",
     "company_id": "66fe306865988804359477e0",
     "jobTitle": "Frontend Developer",
@@ -31,7 +30,6 @@
     "tags": ["Frontend Development", "React", "Web Development"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fda",
     "company_email": "info@neurotechsystems.com",
     "company_id": "66fe306865988804359477e0",
     "jobTitle": "Data Scientist",
@@ -62,7 +60,6 @@
     "tags": ["Data Science", "Machine Learning", "Analytics"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fdb",
     "company_email": "contact@quantumleaptech.com",
     "company_id": "66fe306865988804359477e1",
     "jobTitle": "Software Engineer",
@@ -93,7 +90,7 @@
     "tags": ["Quantum Computing", "Software Development", "Engineering"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fdc",
+
     "company_email": "contact@quantumleaptech.com",
     "company_id": "66fe306865988804359477e1",
     "jobTitle": "Research Scientist",
@@ -124,7 +121,6 @@
     "tags": ["Quantum Research", "Algorithms", "Science"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fdd",
     "company_email": "info@greenenergysolutions.com",
     "company_id": "66fe306865988804359477e2",
     "jobTitle": "Project Manager",
@@ -155,7 +151,6 @@
     "tags": ["Project Management", "Renewable Energy", "Sustainability"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fde",
     "company_email": "info@greenenergysolutions.com",
     "company_id": "66fe306865988804359477e2",
     "jobTitle": "Electrical Engineer",
@@ -186,7 +181,6 @@
     "tags": ["Electrical Engineering", "Renewable Energy", "Engineering"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fdf",
     "company_email": "support@cybersafetech.com",
     "company_id": "66fe306865988804359477e3",
     "jobTitle": "Cybersecurity Analyst",
@@ -217,7 +211,6 @@
     "tags": ["Cybersecurity", "IT Security", "Network Security"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fe0",
     "company_email": "support@cybersafetech.com",
     "company_id": "66fe306865988804359477e3",
     "jobTitle": "Penetration Tester",
@@ -248,7 +241,6 @@
     "tags": ["Penetration Testing", "Cybersecurity", "Ethical Hacking"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fe1",
     "company_email": "hello@finnextsolutions.com",
     "company_id": "66fe306865988804359477e4",
     "jobTitle": "Machine Learning Engineer",
@@ -279,7 +271,6 @@
     "tags": ["Machine Learning", "AI", "Data Science"]
   },
   {
-    "_id": "67036cfdbef6e9a61db06fe2",
     "company_email": "hello@finnextsolutions.com",
     "company_id": "66fe306865988804359477e4",
     "jobTitle": "AI Research Scientist",
