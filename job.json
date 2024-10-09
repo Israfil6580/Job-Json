@@ -1,6 +1,8 @@
 [
   {
+    "_id": "67036cfdbef6e9a61db06fd9",
     "company_email": "info@neurotechsystems.com",
+    "company_id": "66fe306865988804359477e0",
     "jobTitle": "Frontend Developer",
     "category": "Web Development",
     "description": [
@@ -29,7 +31,9 @@
     "tags": ["Frontend Development", "React", "Web Development"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fda",
     "company_email": "info@neurotechsystems.com",
+    "company_id": "66fe306865988804359477e0",
     "jobTitle": "Data Scientist",
     "category": "Data Science",
     "description": [
@@ -58,7 +62,9 @@
     "tags": ["Data Science", "Machine Learning", "Analytics"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fdb",
     "company_email": "contact@quantumleaptech.com",
+    "company_id": "66fe306865988804359477e1",
     "jobTitle": "Software Engineer",
     "category": "Engineering",
     "description": [
@@ -87,7 +93,9 @@
     "tags": ["Quantum Computing", "Software Development", "Engineering"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fdc",
     "company_email": "contact@quantumleaptech.com",
+    "company_id": "66fe306865988804359477e1",
     "jobTitle": "Research Scientist",
     "category": "Research",
     "description": [
@@ -116,7 +124,9 @@
     "tags": ["Quantum Research", "Algorithms", "Science"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fdd",
     "company_email": "info@greenenergysolutions.com",
+    "company_id": "66fe306865988804359477e2",
     "jobTitle": "Project Manager",
     "category": "Project Management",
     "description": [
@@ -145,7 +155,9 @@
     "tags": ["Project Management", "Renewable Energy", "Sustainability"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fde",
     "company_email": "info@greenenergysolutions.com",
+    "company_id": "66fe306865988804359477e2",
     "jobTitle": "Electrical Engineer",
     "category": "Engineering",
     "description": [
@@ -174,7 +186,9 @@
     "tags": ["Electrical Engineering", "Renewable Energy", "Engineering"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fdf",
     "company_email": "support@cybersafetech.com",
+    "company_id": "66fe306865988804359477e3",
     "jobTitle": "Cybersecurity Analyst",
     "category": "Cybersecurity",
     "description": [
@@ -183,7 +197,7 @@
       "Conduct vulnerability assessments and recommend security measures."
     ],
     "job_type": "Full-time",
-    "job_location": "Remote",
+    "job_location": "Hybrid",
     "min_salary": "75000",
     "max_salary": "115000",
     "postedDate": "2024-08-04",
@@ -203,7 +217,9 @@
     "tags": ["Cybersecurity", "IT Security", "Network Security"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fe0",
     "company_email": "support@cybersafetech.com",
+    "company_id": "66fe306865988804359477e3",
     "jobTitle": "Penetration Tester",
     "category": "Cybersecurity",
     "description": [
@@ -232,7 +248,9 @@
     "tags": ["Penetration Testing", "Cybersecurity", "Ethical Hacking"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fe1",
     "company_email": "hello@finnextsolutions.com",
+    "company_id": "66fe306865988804359477e4",
     "jobTitle": "Machine Learning Engineer",
     "category": "Artificial Intelligence",
     "description": [
@@ -261,7 +279,9 @@
     "tags": ["Machine Learning", "AI", "Data Science"]
   },
   {
+    "_id": "67036cfdbef6e9a61db06fe2",
     "company_email": "hello@finnextsolutions.com",
+    "company_id": "66fe306865988804359477e4",
     "jobTitle": "AI Research Scientist",
     "category": "Research",
     "description": [
