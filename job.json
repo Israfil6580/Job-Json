@@ -299,5 +299,155 @@
     ],
     "education": "Ph.D. in Computer Science, AI, or related field",
     "tags": ["AI Research", "Machine Learning", "Innovation"]
+  },
+  {
+    "company_email": "info@neurotechsystems.com",
+    "company_id": "670766fabef6e9a61d7369c6",
+    "jobTitle": "Backend Developer",
+    "category": "Web Development",
+    "description": [
+      "NeuroTech Systems is looking for a skilled Frontend Developer to join our dynamic team.",
+      "You will be responsible for building responsive user interfaces.",
+      "Work closely with designers to create an engaging user experience."
+    ],
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "80000",
+    "max_salary": "120000",
+    "postedDate": "2024-09-07",
+    "lastDateToApply": "2024-11-14",
+    "requirements": [
+      "Bachelor’s Degree in Computer Science or related field",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with React or Angular",
+      "Strong problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with the backend team to integrate APIs",
+      "Ensure the technical feasibility of UI/UX designs"
+    ],
+    "education": "Bachelor’s Degree in Computer Science or related field",
+    "tags": ["Frontend Development", "React", "Web Development"]
+  },
+  {
+    "company_email": "info@neurotechsystems.com",
+    "company_id": "670766fabef6e9a61d7369c6",
+    "jobTitle": "Wordpress Developer",
+    "category": "Web Development",
+    "description": [
+      "NeuroTech Systems is looking for a skilled Frontend Developer to join our dynamic team.",
+      "You will be responsible for building responsive user interfaces.",
+      "Work closely with designers to create an engaging user experience."
+    ],
+    "job_type": "Full-time",
+    "job_location": "Remote",
+    "min_salary": "80000",
+    "max_salary": "120000",
+    "postedDate": "2024-09-07",
+    "lastDateToApply": "2024-11-14",
+    "requirements": [
+      "Bachelor’s Degree in Computer Science or related field",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with React or Angular",
+      "Strong problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with the backend team to integrate APIs",
+      "Ensure the technical feasibility of UI/UX designs"
+    ],
+    "education": "Bachelor’s Degree in Computer Science or related field",
+    "tags": ["Frontend Development", "React", "Web Development"]
+  },
+  {
+    "company_email": "info@neurotechsystems.com",
+    "company_id": "670766fabef6e9a61d7369c6",
+    "jobTitle": "React Developer",
+    "category": "Web Development",
+    "description": [
+      "NeuroTech Systems is looking for a skilled Frontend Developer to join our dynamic team.",
+      "You will be responsible for building responsive user interfaces.",
+      "Work closely with designers to create an engaging user experience."
+    ],
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "80000",
+    "max_salary": "120000",
+    "postedDate": "2024-09-07",
+    "lastDateToApply": "2024-11-14",
+    "requirements": [
+      "Bachelor’s Degree in Computer Science or related field",
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with React or Angular",
+      "Strong problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with the backend team to integrate APIs",
+      "Ensure the technical feasibility of UI/UX designs"
+    ],
+    "education": "Bachelor’s Degree in Computer Science or related field",
+    "tags": ["Frontend Development", "React", "Web Development"]
+  },
+  {
+    "company_email": "hello@finnextsolutions.com",
+    "company_id": "670766fabef6e9a61d7369ca",
+    "jobTitle": "Machine Learning Engineer",
+    "category": "Artificial Intelligence",
+    "description": [
+      "FinNext Solutions is seeking a Machine Learning Engineer to develop predictive models.",
+      "You will work on cutting-edge AI projects that impact various industries.",
+      "Collaborate with data scientists and software engineers."
+    ],
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "100000",
+    "max_salary": "140000",
+    "postedDate": "2024-09-07",
+    "lastDateToApply": "2024-10-10",
+    "requirements": [
+      "Bachelor’s Degree in Computer Science, Mathematics, or related field",
+      "Experience with machine learning frameworks (e.g., TensorFlow, PyTorch)",
+      "Strong programming skills in Python or R",
+      "Knowledge of data processing and feature engineering"
+    ],
+    "responsibilities": [
+      "Design and implement machine learning models",
+      "Analyze large datasets to derive insights",
+      "Collaborate with cross-functional teams to enhance AI products"
+    ],
+    "education": "Bachelor’s Degree in Computer Science, Mathematics, or related field",
+    "tags": ["Machine Learning", "AI", "Data Science"]
+  },
+  {
+    "company_email": "info@greenenergysolutions.com",
+    "company_id": "670766fabef6e9a61d7369c8",
+    "jobTitle": "Project Manager",
+    "category": "Project Management",
+    "description": [
+      "GreenEnergy Solutions is looking for a dedicated Project Manager to oversee our renewable energy projects.",
+      "You will be responsible for planning, executing, and closing projects within the specified timeline and budget.",
+      "Work with diverse teams to deliver sustainable energy solutions."
+    ],
+    "job_type": "Full-time",
+    "job_location": "Hybrid",
+    "min_salary": "90000",
+    "max_salary": "130000",
+    "postedDate": "2024-10-01",
+    "lastDateToApply": "2024-11-10",
+    "requirements": [
+      "Bachelor’s Degree in Environmental Science, Engineering, or related field",
+      "Proven experience as a Project Manager in the renewable energy sector",
+      "Familiarity with project management tools (e.g., Trello, Asana)",
+      "Excellent leadership and communication skills"
+    ],
+    "responsibilities": [
+      "Plan and implement project plans for renewable energy initiatives",
+      "Monitor and report on project progress, ensuring compliance with regulations",
+      "Coordinate with clients, contractors, and stakeholders to ensure project success"
+    ],
+    "education": "Bachelor’s Degree in Environmental Science, Engineering, or related field",
+    "tags": ["Project Management", "Renewable Energy", "Sustainability"]
   }
 ]
