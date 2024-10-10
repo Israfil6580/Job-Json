@@ -1,7 +1,7 @@
 [
   {
     "company_email": "info@neurotechsystems.com",
-    "company_id": "670210fdfce2b7a500c44e61",
+    "company_id": "670766fabef6e9a61d7369c6",
     "jobTitle": "Frontend Developer",
     "category": "Web Development",
     "description": [
@@ -31,7 +31,7 @@
   },
   {
     "company_email": "info@neurotechsystems.com",
-    "company_id": "670210fdfce2b7a500c44e61",
+    "company_id": "670766fabef6e9a61d7369c6",
     "jobTitle": "Data Scientist",
     "category": "Data Science",
     "description": [
@@ -61,7 +61,7 @@
   },
   {
     "company_email": "contact@quantumleaptech.com",
-    "company_id": "670210fdfce2b7a500c44e62",
+    "company_id": "670766fabef6e9a61d7369c7",
     "jobTitle": "Software Engineer",
     "category": "Engineering",
     "description": [
@@ -92,7 +92,7 @@
   {
 
     "company_email": "contact@quantumleaptech.com",
-    "company_id": "670210fdfce2b7a500c44e62",
+    "company_id": "670766fabef6e9a61d7369c7",
     "jobTitle": "Research Scientist",
     "category": "Research",
     "description": [
@@ -122,7 +122,7 @@
   },
   {
     "company_email": "info@greenenergysolutions.com",
-    "company_id": "670210fdfce2b7a500c44e63",
+    "company_id": "670766fabef6e9a61d7369c8",
     "jobTitle": "Project Manager",
     "category": "Project Management",
     "description": [
@@ -152,7 +152,7 @@
   },
   {
     "company_email": "info@greenenergysolutions.com",
-    "company_id": "670210fdfce2b7a500c44e63",
+    "company_id": "670766fabef6e9a61d7369c8",
     "jobTitle": "Electrical Engineer",
     "category": "Engineering",
     "description": [
@@ -182,7 +182,7 @@
   },
   {
     "company_email": "support@cybersafetech.com",
-    "company_id": "670210fdfce2b7a500c44e64",
+    "company_id": "670766fabef6e9a61d7369c9",
     "jobTitle": "Cybersecurity Analyst",
     "category": "Cybersecurity",
     "description": [
@@ -212,7 +212,7 @@
   },
   {
     "company_email": "support@cybersafetech.com",
-    "company_id": "670210fdfce2b7a500c44e64",
+    "company_id": "670766fabef6e9a61d7369c9",
     "jobTitle": "Penetration Tester",
     "category": "Cybersecurity",
     "description": [
@@ -242,7 +242,7 @@
   },
   {
     "company_email": "hello@finnextsolutions.com",
-    "company_id": "670210fdfce2b7a500c44e65",
+    "company_id": "670766fabef6e9a61d7369ca",
     "jobTitle": "Machine Learning Engineer",
     "category": "Artificial Intelligence",
     "description": [
@@ -272,7 +272,7 @@
   },
   {
     "company_email": "hello@finnextsolutions.com",
-    "company_id": "670210fdfce2b7a500c44e65",
+    "company_id": "670766fabef6e9a61d7369ca",
     "jobTitle": "AI Research Scientist",
     "category": "Research",
     "description": [
